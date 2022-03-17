@@ -11,7 +11,7 @@
         android:layout_height="150dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/netacc" />
+        app:srcCompat="@drawable/screen1" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -22,7 +22,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.453"
-        app:srcCompat="@drawable/orad_logo" />
+        app:srcCompat="@drawable/screen2" />
 
     <EditText
         android:id="@+id/edt_email"
